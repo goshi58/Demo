@@ -7,7 +7,7 @@ This project is made in Nunit with netcore 3.1
 
 ## Requirements
 
-Visual Studio Required
+Visual Studio or not
 
 Supported Browser (Chrome,Firefox,IE)
 
